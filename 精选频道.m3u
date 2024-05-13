@@ -1,0 +1,24 @@
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" group-title="4K频道",爱上4K
+http://111.196.131.234:8012/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" group-title="4K频道",CCTV-16
+http://27.16.210.198:4022/rtp/239.69.1.249:11136
+#EXTINF:-1 tvg-id="4K超清" tvg-name="4K超清" group-title="4K频道",4K超清
+http://111.196.131.234:8012/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-id="百事通4K" tvg-name="百事通4K" group-title="4K频道",百事通4K
+http://114.95.212.102:4022/udp/239.45.1.42:5140
+#EXTINF:-1 tvg-id="CQTV新闻超高清" tvg-name="CQTV新闻超高清" group-title="4K频道",CQTV新闻超高清
+http://125.82.171.210:8888/rtp/235.254.196.199:7980
+#EXTINF:-1 tvg-id="熊猫频道" tvg-name="熊猫频道" group-title="4K频道",熊猫频道
+http://125.82.171.210:8888/rtp/235.254.198.133:1808
+#EXTINF:-1 tvg-id="天翼4K测试" tvg-name="天翼4K测试" group-title="4K频道",天翼4K测试
+http://223.199.158.254:2222/rtp/239.253.64.73:5140
+#EXTINF:-1 tvg-id="相声小品" tvg-name="相声小品" group-title="娱乐频道",相声小品
+http://125.82.171.210:8888/rtp/235.254.198.118:1748
+#EXTINF:-1 tvg-id="来钓鱼吧" tvg-name="来钓鱼吧" group-title="钓鱼频道",来钓鱼吧
+http://125.69.147.107:8888/udp/239.93.42.8:5140
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" group-title="钓鱼频道",四海钓鱼
+http://110.178.52.119:8085/udp/239.1.1.111:8111
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="钓鱼频道",快乐垂钓
+http://123.118.4.153:4022/rtp/239.3.1.164:8001
+
