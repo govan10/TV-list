@@ -299,3 +299,7 @@ rtp://225.1.1.211:5002
 rtp://225.1.1.78:5002
 #EXTINF:-1 tvg-id="902" tvg-name="902" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/902.png" group-title="连播频道",902频道
 rtp://225.1.1.79:5002
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场"  group-title="4K频道",欢笑剧场
+rtp://225.1.1.152:5002
+#EXTINF:-1 tvg-id="超清乐享" tvg-name="超清乐享"  group-title="4K频道",超清乐享
+rtp://225.1.2.190:5002
