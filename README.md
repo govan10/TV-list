@@ -1,10 +1,12 @@
 # TV-list
 1、说明：业余时间做的一个电视直播源小项目，提供给各位老哥自用，不作商用。
+
 2、推荐的看直播软件：
 ①Android TV：TiviMate、Televizo、影视仓（TVBOX换壳）
 ②Android: IPTV
 ③APPLE TV/ios: APTV
 ④Windows：potplayer
+
 3、直播地址：
 ①全网络通用：
 天津联通公网（自维）：https://raw.githubusercontent.com/govan10/TV-list/refs/heads/main/%E5%A4%A9%E6%B4%A5%E8%81%94%E9%80%9A%E5%85%AC%E7%BD%91.m3u
