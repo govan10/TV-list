@@ -21,10 +21,6 @@
 
 北京联通公网（自维）：https://raw.githubusercontent.com/govan10/TV-list/refs/heads/main/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E5%85%AC%E7%BD%91.m3u
 
-斗鱼一起看（自维）：https://raw.githubusercontent.com/govan10/TV-list/refs/heads/main/%E8%BF%9C%E7%A8%8B%E8%82%A5%E7%BE%8A%E6%96%97%E9%B1%BC.m3u
-
-虎牙一起看（自维）：https://raw.githubusercontent.com/govan10/TV-list/refs/heads/main/%E8%BF%9C%E7%A8%8B%E8%82%A5%E7%BE%8A%E8%99%8E%E7%89%99.m3u
-
 ②需家中开启IPV6网络后使用：
 
 范明明（网络源）：https://live.fanmingming.com/tv/m3u/ipv6.m3u
