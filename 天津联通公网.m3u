@@ -307,3 +307,140 @@ http://233787ghfr13.vicp.fun:5893/rtp/225.1.1.211:5002
 http://233787ghfr13.vicp.fun:5893/rtp/225.1.1.78:5002
 #EXTINF:-1 tvg-name="902" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/902.png" group-title="连播频道",902频道
 http://233787ghfr13.vicp.fun:5893/rtp/225.1.1.79:5002
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="咪咕央视频道",CCTV1
+http://233787ghfr13.vicp.fun:8123/live/cctv1?token=196941
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="咪咕央视频道",CCTV2
+http://233787ghfr13.vicp.fun:8123/live/cctv2?token=196941
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="咪咕央视频道",CCTV3
+http://233787ghfr13.vicp.fun:8123/live/cctv3?token=196941
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="咪咕央视频道",CCTV4
+http://233787ghfr13.vicp.fun:8123/live/cctv4?token=196941
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="咪咕央视频道",CCTV5
+http://233787ghfr13.vicp.fun:8123/live/cctv5?token=196941
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="咪咕央视频道",CCTV5+
+http://233787ghfr13.vicp.fun:8123/live/cctv5p?token=196941
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="咪咕央视频道",CCTV6
+http://233787ghfr13.vicp.fun:8123/live/cctv6?token=196941
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="咪咕央视频道",CCTV7
+http://233787ghfr13.vicp.fun:8123/live/cctv7?token=196941
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="咪咕央视频道",CCTV8
+http://233787ghfr13.vicp.fun:8123/live/cctv8?token=196941
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="咪咕央视频道",CCTV9
+http://233787ghfr13.vicp.fun:8123/live/cctv9?token=196941
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="咪咕央视频道",CCTV10
+http://233787ghfr13.vicp.fun:8123/live/cctv10?token=196941
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="咪咕央视频道",CCTV11
+http://233787ghfr13.vicp.fun:8123/live/cctv11?token=196941
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="咪咕央视频道",CCTV12
+http://233787ghfr13.vicp.fun:8123/live/cctv12?token=196941
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="咪咕央视频道",CCTV13
+http://233787ghfr13.vicp.fun:8123/live/cctv13?token=196941
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="咪咕央视频道",CCTV14
+http://233787ghfr13.vicp.fun:8123/live/cctv14?token=196941
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="咪咕央视频道",CCTV15
+http://233787ghfr13.vicp.fun:8123/live/cctv15?token=196941
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="咪咕央视频道",CCTV16
+http://233787ghfr13.vicp.fun:8123/live/cctv16?token=196941
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="咪咕央视频道",CCTV17
+http://233787ghfr13.vicp.fun:8123/live/cctv17?token=196941
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="凤凰秀",凤凰资讯
+http://233787ghfr13.vicp.fun:8123/phoenix/fhzx.flv?token=196941
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="凤凰秀",凤凰中文
+http://233787ghfr13.vicp.fun:8123/phoenix/fhzw.flv?token=196941
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="凤凰秀",凤凰香港
+http://233787ghfr13.vicp.fun:8123/phoenix/fhhk.flv?token=196941
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="咪咕卫视频道",北京卫视
+http://233787ghfr13.vicp.fun:8123/live/北京卫视?token=196941
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="咪咕卫视频道",东方卫视
+http://233787ghfr13.vicp.fun:8123/live/东方卫视?token=196941
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="咪咕卫视频道",湖南卫视
+http://233787ghfr13.vicp.fun:8123/live/湖南卫视?token=196941
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="咪咕卫视频道",江苏卫视
+http://233787ghfr13.vicp.fun:8123/live/江苏卫视?token=196941
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="咪咕卫视频道",浙江卫视
+http://233787ghfr13.vicp.fun:8123/live/浙江卫视?token=196941
+#EXTINF:-1,tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩广场舞.png" group-title="咪视通",睛彩广场舞
+http://233787ghfr13.vicp.fun:8123/TVOD/睛彩广场舞.m3u8?token=196941
+#EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="咪视通",睛彩竞技
+http://233787ghfr13.vicp.fun:8123/TVOD/睛彩竞技.m3u8?token=196941
+#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩篮球.png" group-title="咪视通",睛彩篮球
+http://233787ghfr13.vicp.fun:8123/TVOD/睛彩篮球.m3u8?token=196941
+#EXTINF:-1,tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="咪视通",睛彩青少
+http://233787ghfr13.vicp.fun:8123/TVOD/睛彩青少.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-1
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000001000005308.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-2
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000001000005969.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-3
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000001000007218.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-4
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000001000008001.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-5
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000001000008176.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-6
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000001000008379.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-7
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000001000010129.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-8
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000001000010948.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-9
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000001000028638.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-10
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000001000031494.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-11
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000005837.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-12
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000020000011518.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-13
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000020000011519.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-14
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000020000011520.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-15
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000020000011521.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-16
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000020000011522.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-24
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000000097.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-25
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000002019.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-26
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000002809.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-27
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000003915.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-28
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000004193.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-29
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000006077.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-30
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000006658.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-31
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000009788.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-32
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000010833.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-33
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000011297.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-34
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000011518.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-35
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000012558.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-36
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000012616.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-37
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000015470.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-38
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000015560.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-39
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000017678.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-40
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000019839.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-41
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000021904.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-42
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000023434.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-43
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000025380.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-44
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000027691.m3u8?token=196941
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-45
+http://233787ghfr13.vicp.fun:8123/TVOD/3000000010000031669.m3u8?token=196941
