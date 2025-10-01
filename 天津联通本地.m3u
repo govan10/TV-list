@@ -307,3 +307,9 @@ rtp://225.1.1.211:5002
 rtp://225.1.1.78:5002
 #EXTINF:-1 tvg-id="902" tvg-name="902" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/902.png" group-title="连播频道",902频道
 rtp://225.1.1.79:5002
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="凤凰秀",凤凰资讯
+http://192.168.18.24:8123/phoenix/fhzx.flv?token=196941
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="凤凰秀",凤凰中文
+http://192.168.18.24:8123/phoenix/fhzw.flv?token=196941
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="凤凰秀",凤凰香港
+http://192.168.18.24:8123/phoenix/fhhk.flv?token=196941
